@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Futureag</title>
+    <link>http://futureag.github.io/posts/</link>
+    <description>Recent content in Posts on Futureag</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 May 2018 12:02:34 -0500</lastBuildDate>
+    
+	<atom:link href="http://futureag.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://futureag.github.io/posts/welcome/</link>
+      <pubDate>Sun, 27 May 2018 12:02:34 -0500</pubDate>
+      
+      <guid>http://futureag.github.io/posts/welcome/</guid>
+      <description> More later!  Links to various repos/major things Links to wiki Get involved guide  </description>
+    </item>
+    
+  </channel>
+</rss>
